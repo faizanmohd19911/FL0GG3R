@@ -20,7 +20,7 @@ pip install telepot
 ```
 
 Now use [FatherBot](https://telegram.me/BotFather) to create a custom Telegram Bot and obtain Bot API
-1. /newbot - Create a new bot.
+1. /newbot - To Create a new bot.
 2. Name the Bot ( As you like it ).
 3. Now type BOT's username ending with 'bot'.
 4. When Bot gets created successfully copy this HTTP API ( Bot API ).
