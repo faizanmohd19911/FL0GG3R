@@ -68,6 +68,3 @@ Insert your BOT API and chat id in [FL0GG3R.py](https://github.com/F41Z4N/FL0GG3
 
 ./clip – to capture clipboard data
 
-
-## Developer
-[XxPL3NTYxX](https://telegram.me/xxpl3ntyxx)
